@@ -1,0 +1,4 @@
+function loadHello(){
+  alert("Hello!");
+}
+
